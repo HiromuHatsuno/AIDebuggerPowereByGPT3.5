@@ -1,0 +1,15 @@
+{
+  "name": "com.hiromuhatsuno.aidebugger.poweredbygpt3.5",
+  "displayName": "aidebuggerpoweredbygpt3.5",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "aidebuggerpoweredbygpt3.5",
+  "keywords": ["Editor"],
+  "author": {
+    "name": "Hiromu Hatsuno"
+  },
+  "category": "Script",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  }
+}
